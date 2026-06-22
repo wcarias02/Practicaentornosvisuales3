@@ -16,5 +16,15 @@ namespace Practicaentornosvisuales3
         {
             InitializeComponent();
         }
+
+        private void lblNombrecompleto_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FrmClientes_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
